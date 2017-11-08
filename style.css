@@ -4,10 +4,22 @@ form {
 
 /* Full-width inputs */
 input[type=text], input[type=password] {
-    width: 50%;
-    padding: 12px 20px;
+    width: 20%;
     margin: 8px 0;
     display: inline-block;
     border: 1px solid #ccc;
-    box-sizing: border-box;
+}
+h1{
+    color: purple;
+    padding: 2px;
+    font-family: helvetica;
+    
+    
+}
+body{
+    
+    background-image: url('mail.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
 }
